@@ -1,2 +1,20 @@
-# StudentDashboard
- An interactive student performance analytics dashboard built with Streamlit. Features real time filtering, subject wise analysis, grade distribution, attendance correlation, radar charts, and downloadable reports. Built with Python, Plotly, Seaborn &amp; Pandas.
+# 🎓 Student Performance Dashboard
+
+An interactive web based data dashboard built using Streamlit for analyzing student academic performance.
+
+## Features
+- 📊 Subject-wise performance analysis
+- 🎯 Grade distribution visualization  
+- 📈 Attendance vs percentage correlation
+- 🔥 Feature correlation heatmap
+- 🕸️ Radar chart by grade
+- 🏆 Top 5 performers
+- ⚥ Gender comparison
+- 📋 Downloadable filtered data
+
+## Tech Stack
+Python | Streamlit | Pandas | Plotly | Seaborn | Matplotlib
+
+## Run Locally
+pip install -r requirements.txt
+streamlit run app.py
